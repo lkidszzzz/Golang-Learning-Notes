@@ -50,10 +50,10 @@
     <configuration name="go build Part1" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="Part1" />
       <working_directory value="$PROJECT_DIR$" />
-      <kind value="PACKAGE" />
+      <kind value="FILE" />
       <package value="Part1" />
       <directory value="$PROJECT_DIR$" />
-      <filePath value="$PROJECT_DIR$/Hello&amp;Value.go" />
+      <filePath value="$PROJECT_DIR$/3.Const&amp;Enum.go" />
       <method v="2" />
     </configuration>
     <recent_temporary>
