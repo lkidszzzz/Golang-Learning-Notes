@@ -5,12 +5,14 @@ import "fmt"
 //在函数外面定义变量不能用:= 因为需要关键字开头
 //函数外部定义的变量不是全局变量，范围为package
 var (
+	//缩写
 	aa = 0
 	bb = false
 	ss = "hello,hello."
 )
 
 func variableZeroValue() {
+	//Go开发中定义的所有变量均必须使用，初始化的变量均有值（为0或空字符串等）
 	var a int
 	var s string
 	fmt.Printf("%d %q\n", a, s)
