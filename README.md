@@ -1,5 +1,7 @@
 # Golang-Learning-Notes
-个人跟随imooc相关课程的Golang学习笔记
+lkidszzzz的Golang学习笔记
+
+学习imooc上的Golang开发相关课程
 
 sdk：1.18.3
 
