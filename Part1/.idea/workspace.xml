@@ -46,16 +46,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;goland.project.structure&quot;
   }
 }</component>
-  <component name="RunManager" selected="Go 构建.go build Part1 (1)">
-    <configuration name="go build Part1 (1)" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
-      <module name="Part1" />
-      <working_directory value="$PROJECT_DIR$" />
-      <kind value="FILE" />
-      <package value="Part1" />
-      <directory value="$PROJECT_DIR$" />
-      <filePath value="$PROJECT_DIR$/4.If&amp;Switch.go" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Go 构建.test5">
     <configuration name="go build Part1" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="Part1" />
       <working_directory value="$PROJECT_DIR$" />
@@ -65,10 +56,58 @@
       <filePath value="$PROJECT_DIR$/3.Const&amp;Enum.go" />
       <method v="2" />
     </configuration>
+    <configuration name="test1" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true">
+      <module name="Part1" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <package value="Part1" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/1.Hello&amp;Value.go" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test2" type="GoApplicationRunConfiguration" factoryName="Go Application">
+      <module name="Part1" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <package value="Part1" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/2.VariableType.go" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test3" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true">
+      <module name="Part1" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <package value="Part1" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/3.Const&amp;Enum.go" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test4" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true">
+      <module name="Part1" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <package value="Part1" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/4.If&amp;Switch.go" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test5" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true">
+      <module name="Part1" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <package value="Part1" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/5.Loop.go" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Go 构建.go build Part1 (1)" />
+        <item itemvalue="Go 构建.test5" />
+        <item itemvalue="Go 构建.test3" />
+        <item itemvalue="Go 构建.test1" />
         <item itemvalue="Go 构建.go build Part1" />
+        <item itemvalue="Go 构建.test4" />
       </list>
     </recent_temporary>
   </component>
