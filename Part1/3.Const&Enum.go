@@ -22,12 +22,15 @@ func enums() {
 		java   = 1
 		cpp    = 2
 	)
+	fmt.Println(golang, java, cpp)
 	const (
+		//iota常用于常量声明中；
+		//本质为一个从0开始的递增计数器，在每个const定义行后加1；
+		//不管const定义行中有没有iota，仍然会递增；
 		x = iota
 		y
 		z
 	)
-	fmt.Println(golang, java, cpp)
 	fmt.Println(x, y, z)
 	const (
 		xx = iota
@@ -37,7 +40,7 @@ func enums() {
 	)
 	fmt.Println(xx, yy, zz)
 	const (
-		//通过设计表达式控制枚举方式
+		//运用iota设计复杂表达式控制枚举方式
 		b = 1 << (10 * iota)
 		kb
 		mb
