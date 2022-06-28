@@ -46,7 +46,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;goland.project.structure&quot;
   }
 }</component>
-  <component name="RunManager" selected="Go 构建.test5">
+  <component name="RunManager" selected="Go 构建.test6">
     <configuration name="go build Part1" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="Part1" />
       <working_directory value="$PROJECT_DIR$" />
@@ -101,13 +101,22 @@
       <filePath value="$PROJECT_DIR$/5.Loop.go" />
       <method v="2" />
     </configuration>
+    <configuration name="test6" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true">
+      <module name="Part1" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <package value="Part1" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/6.func.go" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Go 构建.test6" />
         <item itemvalue="Go 构建.test5" />
         <item itemvalue="Go 构建.test3" />
         <item itemvalue="Go 构建.test1" />
         <item itemvalue="Go 构建.go build Part1" />
-        <item itemvalue="Go 构建.test4" />
       </list>
     </recent_temporary>
   </component>
