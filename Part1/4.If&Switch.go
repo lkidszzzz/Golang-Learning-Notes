@@ -8,6 +8,7 @@ import (
 func filenames() {
 	const filename1 = "test.txt"
 	contents1, err1 := ioutil.ReadFile(filename1)
+	//条件不需要括号
 	if err1 != nil {
 		fmt.Println(err1)
 	} else {
