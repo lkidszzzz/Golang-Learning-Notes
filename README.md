@@ -2,7 +2,7 @@
 
 ## ❤lkidszzzz的Golang学习笔记❤
 
-************=================================================================================================================================================************
+###
 ![go](https://img.shields.io/badge/language-golang-brightgreen)
 ![sdk](https://img.shields.io/github/go-mod/go-version/lkidszzzz/Golang-Learning-Notes?filename=%2FPart1%2Fgo.mod)
 ![lang](https://img.shields.io/github/languages/count/lkidszzzz/Golang-Learning-Notes)
