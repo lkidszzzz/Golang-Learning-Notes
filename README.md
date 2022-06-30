@@ -2,6 +2,8 @@
 
 ## ❤lkidszzzz的Golang学习笔记❤
 
+![github license](https://img.shields.io/github/license/lkidszzzz/Golang-Learning-Notes)
+
 ### ⭐sdk：1.18.3⭐
 
 ### ⭐IDE：GoLand 2022.1.3⭐
