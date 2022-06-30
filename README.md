@@ -2,7 +2,9 @@
 
 ## ❤lkidszzzz的Golang学习笔记❤
 
+![github license](https://img.shields.io/badge/language-golang-brightgreen)
 ![github license](https://img.shields.io/github/go-mod/go-version/lkidszzzz/Golang-Learning-Notes?filename=%2FPart1%2Fgo.mod)
+![github license](https://img.shields.io/github/languages/count/lkidszzzz/Golang-Learning-Notes)
 ![github license](https://img.shields.io/github/license/lkidszzzz/Golang-Learning-Notes)
 
 ### ⭐sdk：1.18.3⭐
