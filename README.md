@@ -2,11 +2,11 @@
 
 ## ❤lkidszzzz的Golang学习笔记❤
 
-![github license](https://img.shields.io/badge/language-golang-brightgreen)
-![github license](https://img.shields.io/github/go-mod/go-version/lkidszzzz/Golang-Learning-Notes?filename=%2FPart1%2Fgo.mod)
-![github license](https://img.shields.io/github/languages/count/lkidszzzz/Golang-Learning-Notes)
-![github license](https://img.shields.io/github/license/lkidszzzz/Golang-Learning-Notes)
+![go](https://img.shields.io/badge/language-golang-brightgreen)
+![sdk](https://img.shields.io/github/go-mod/go-version/lkidszzzz/Golang-Learning-Notes?filename=%2FPart1%2Fgo.mod)
+![lang](https://img.shields.io/github/languages/count/lkidszzzz/Golang-Learning-Notes)
 ![bilibili](https://img.shields.io/badge/bilibili-%40Murasame__lkids-blue)
+![github license](https://img.shields.io/github/license/lkidszzzz/Golang-Learning-Notes)
 
 ### ⭐IDE：JetBrains GoLand 2022.1.3⭐
 
