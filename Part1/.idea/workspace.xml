@@ -46,7 +46,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
 }</component>
-  <component name="RunManager" selected="Go 构建.test9">
+  <component name="RunManager" selected="Go 构建.test10">
     <configuration name="test1" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true">
       <module name="Part1" />
       <working_directory value="$PROJECT_DIR$" />
@@ -54,6 +54,15 @@
       <package value="Part1" />
       <directory value="$PROJECT_DIR$" />
       <filePath value="$PROJECT_DIR$/1.Hello&amp;Value.go" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test10" type="GoApplicationRunConfiguration" factoryName="Go Application">
+      <module name="Part1" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <package value="Part1" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/10.Maps.go" />
       <method v="2" />
     </configuration>
     <configuration name="test2" type="GoApplicationRunConfiguration" factoryName="Go Application">
