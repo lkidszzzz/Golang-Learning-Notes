@@ -51,7 +51,7 @@
       <recent name="D:\Komori Chiyu\Documents\Github\Golang-Learning-Notes\Part1" />
     </key>
   </component>
-  <component name="RunManager" selected="Go 构建.test1">
+  <component name="RunManager" selected="Go 构建.test11">
     <configuration name="test1" type="GoApplicationRunConfiguration" factoryName="Go Application">
       <module name="Part1" />
       <working_directory value="$PROJECT_DIR$" />
@@ -68,6 +68,15 @@
       <package value="Part1" />
       <directory value="$PROJECT_DIR$" />
       <filePath value="$PROJECT_DIR$/10.Maps.go" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test11" type="GoApplicationRunConfiguration" factoryName="Go Application">
+      <module name="Part1" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <package value="Part1" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/11.Strings.go" />
       <method v="2" />
     </configuration>
     <configuration name="test2" type="GoApplicationRunConfiguration" factoryName="Go Application">
@@ -143,6 +152,7 @@
       <method v="2" />
     </configuration>
     <list>
+      <item itemvalue="Go 构建.test11" />
       <item itemvalue="Go 构建.test1" />
       <item itemvalue="Go 构建.test2" />
       <item itemvalue="Go 构建.test3" />
