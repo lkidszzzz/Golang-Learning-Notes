@@ -50,7 +50,7 @@
       <recent name="D:\Komori Chiyu\Documents\Github\Golang-Learning-Notes\Part2\01.tree\entry" />
     </key>
   </component>
-  <component name="RunManager" selected="Go 构建.test2">
+  <component name="RunManager" selected="Go 构建.test3">
     <configuration name="test1" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true">
       <module name="Part2" />
       <working_directory value="$PROJECT_DIR$" />
@@ -76,6 +76,15 @@
       <package value="Part2/02.queue/entry" />
       <directory value="$PROJECT_DIR$" />
       <filePath value="$PROJECT_DIR$/02.queue/entry/main.go" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test3" type="GoApplicationRunConfiguration" factoryName="Go Application">
+      <module name="Part2" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <package value="Part2/03.embedded" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/03.embedded/main.go" />
       <method v="2" />
     </configuration>
     <recent_temporary>
