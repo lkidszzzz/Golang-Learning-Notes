@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2461b1b5-e86a-46bf-a36b-7a8c85991e56" name="变更" comment="" />
+    <list default="true" id="b9c417f0-bcd8-450f-99f7-1ac355209a39" name="变更" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,7 +13,6 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Go File" />
         <option value="Go Application" />
       </list>
     </option>
@@ -25,7 +24,7 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectId" id="2Bn99QEXNzdpKV4kjqxVBVxwdiw" />
+  <component name="ProjectId" id="2CADnzhFeEAm6sbOuzIDkSE0zZ3" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -42,54 +41,22 @@
     &quot;RunOnceActivity.go.watchers.conflict.with.on.save.actions.check.performed&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
     &quot;go.import.settings.migrated&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/Komori Chiyu/Documents/Github/snowcraft-website&quot;
+    &quot;last_opened_file_path&quot;: &quot;D:/Komori Chiyu/Documents/imooc-go/learngo-master/learngo&quot;
   }
 }</component>
-  <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\Komori Chiyu\Documents\Github\Golang-Learning-Notes\Part2\01.tree\entry" />
-    </key>
-  </component>
-  <component name="RunManager" selected="Go 构建.test3">
-    <configuration name="test1" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true">
-      <module name="Part2" />
+  <component name="RunManager">
+    <configuration name="go build Part4/02.functional/adder" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="Part4" />
       <working_directory value="$PROJECT_DIR$" />
       <kind value="PACKAGE" />
-      <package value="Part2/01.tree/entry" />
+      <package value="Part4/02.functional/adder" />
       <directory value="$PROJECT_DIR$" />
-      <filePath value="$PROJECT_DIR$/01.tree/entry/entry.go" />
-      <method v="2" />
-    </configuration>
-    <configuration name="test1" type="GoApplicationRunConfiguration" factoryName="Go Application">
-      <module name="Part2" />
-      <working_directory value="$PROJECT_DIR$" />
-      <kind value="FILE" />
-      <package value="Part2/01.tree" />
-      <directory value="$PROJECT_DIR$" />
-      <filePath value="$PROJECT_DIR$/01.tree/node.go" />
-      <method v="2" />
-    </configuration>
-    <configuration name="test2" type="GoApplicationRunConfiguration" factoryName="Go Application">
-      <module name="Part2" />
-      <working_directory value="$PROJECT_DIR$" />
-      <kind value="PACKAGE" />
-      <package value="Part2/02.queue/entry" />
-      <directory value="$PROJECT_DIR$" />
-      <filePath value="$PROJECT_DIR$/02.queue/entry/main.go" />
-      <method v="2" />
-    </configuration>
-    <configuration name="test3" type="GoApplicationRunConfiguration" factoryName="Go Application">
-      <module name="Part2" />
-      <working_directory value="$PROJECT_DIR$" />
-      <kind value="PACKAGE" />
-      <package value="Part2/03.embedded" />
-      <directory value="$PROJECT_DIR$" />
-      <filePath value="$PROJECT_DIR$/03.embedded/main.go" />
+      <filePath value="$PROJECT_DIR$/02.functional/adder/adder.go" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Go 构建.test1" />
+        <item itemvalue="Go 构建.go build Part4/02.functional/adder" />
       </list>
     </recent_temporary>
   </component>

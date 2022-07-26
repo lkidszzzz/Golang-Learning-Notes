@@ -17,7 +17,7 @@
       </list>
     </option>
   </component>
-  <component name="GOROOT" url="file://$PROJECT_DIR$/../../../../sdk/go1.18.3" />
+  <component name="GOROOT" url="file://C:/Program Files/Go" />
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
@@ -42,7 +42,7 @@
     "RunOnceActivity.go.watchers.conflict.with.on.save.actions.check.performed": "true",
     "WebServerToolWindowFactoryState": "false",
     "go.import.settings.migrated": "true",
-    "last_opened_file_path": "D:/Komori Chiyu/Documents/snowcraft-website-main",
+    "last_opened_file_path": "C:/Users/Komori Chiyu",
     "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
