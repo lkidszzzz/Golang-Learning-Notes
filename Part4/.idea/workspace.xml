@@ -44,7 +44,16 @@
     &quot;last_opened_file_path&quot;: &quot;D:/Komori Chiyu/Documents/imooc-go/learngo-master/learngo&quot;
   }
 }</component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Go 构建.go build Part4/02.functional">
+    <configuration name="go build Part4/02.functional" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="Part4" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <package value="Part4/02.functional" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/02.functional/ftb.go" />
+      <method v="2" />
+    </configuration>
     <configuration name="go build Part4/02.functional/adder" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="Part4" />
       <working_directory value="$PROJECT_DIR$" />
@@ -56,6 +65,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Go 构建.go build Part4/02.functional" />
         <item itemvalue="Go 构建.go build Part4/02.functional/adder" />
       </list>
     </recent_temporary>
