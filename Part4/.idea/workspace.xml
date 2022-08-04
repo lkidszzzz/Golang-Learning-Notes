@@ -52,7 +52,7 @@
       <recent name="D:\Komori Chiyu\Documents\Github\Golang-Learning-Notes\Part4\02.functional\ftb" />
     </key>
   </component>
-  <component name="RunManager" selected="Go 构建.go build Part4/02.functional">
+  <component name="RunManager" selected="Go 构建.go build Part4/03.errhandling/defer">
     <configuration name="go build Part4/02.functional" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="Part4" />
       <working_directory value="$PROJECT_DIR$" />
@@ -71,8 +71,18 @@
       <filePath value="$PROJECT_DIR$/02.functional/adder/adder.go" />
       <method v="2" />
     </configuration>
+    <configuration name="go build Part4/03.errhandling/defer" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="Part4" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <package value="Part4/03.errhandling/defer" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/03.errhandling/defer/defer.go" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Go 构建.go build Part4/03.errhandling/defer" />
         <item itemvalue="Go 构建.go build Part4/02.functional" />
         <item itemvalue="Go 构建.go build Part4/02.functional/adder" />
       </list>
