@@ -14,9 +14,9 @@
 
 ### 开发环境
 
-#### &ensp;&ensp;IDE:JetBrains GoLand 2022.2
+#### &ensp;&ensp;IDE : JetBrains GoLand 2022.2
 
-#### &ensp;&ensp;GO:1.18.4
+#### &ensp;&ensp;GO : 1.18.4
 
 #### &ensp;&ensp;--I will update the development environment in time.
 
