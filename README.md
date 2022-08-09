@@ -14,13 +14,13 @@
 
 ### 开发环境
 
-####&ensp;&ensp;IDE:JetBrains GoLand 2022.2
+#### &ensp;&ensp;IDE:JetBrains GoLand 2022.2
 
-####&ensp;&ensp;GO:1.18.4
+#### &ensp;&ensp;GO:1.18.4
 
-####&ensp;&ensp;--I will update the development environment in time.
+#### &ensp;&ensp;--I will update the development environment in time.
 
-####&ensp;&ensp;--I will always be curious about new knowledge.
+#### &ensp;&ensp;--I will always be curious about new knowledge.
 
 ### 学习资料
 
