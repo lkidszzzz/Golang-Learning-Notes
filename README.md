@@ -14,8 +14,11 @@
 
 ## ⭐开发环境⭐
 
-### &ensp;&ensp;IDE : JetBrains GoLand 2022.2
-### &ensp;&ensp;GO : 1.18.4
+### &ensp;&ensp;IDE
+#### &ensp;&ensp;&ensp;&ensp;JetBrains GoLand 2022.2
+### &ensp;&ensp;Go sdk
+#### &ensp;&ensp;&ensp;&ensp;开始学习时：1.18.3
+#### &ensp;&ensp;&ensp;&ensp;当前更新到：1.19
 ### &ensp;&ensp;——I will update the development environment in time.
 ### &ensp;&ensp;——I will always be curious about new knowledge.
 
@@ -25,6 +28,7 @@
 ### &ensp;&ensp;gopher—https://github.com/yongxinz/gopher
 ### &ensp;&ensp;golangfamily—https://github.com/xiaobaiTech/golangFamily
 ### &ensp;&ensp;菜鸟教程—https://www.runoob.com/go/go-tutorial.html
+### &ensp;&ensp;Go语言中文网—https://studygolang.com
 
 ##
 <img src="https://i0.hdslb.com/bfs/album/a026356dfcd19e6a36aa2770e0d46875d5bbb87c.png" width="721px">
