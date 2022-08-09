@@ -12,16 +12,18 @@
 ![github license](https://img.shields.io/github/license/lkidszzzz/Golang-Learning-Notes)
 ![ty](https://img.shields.io/badge/%E7%89%B9%E5%88%AB%E9%B8%A3%E8%B0%A2-github%40KevynTang-yellow)
 
-## 开发环境
+## ⭐开发环境⭐
 
 ### &ensp;&ensp;IDE : JetBrains GoLand 2022.2
-
 ### &ensp;&ensp;GO : 1.18.4
+### &ensp;&ensp;————I will update the development environment in time.
+### &ensp;&ensp;————I will always be curious about new knowledge.
 
-### &ensp;&ensp;--I will update the development environment in time.
+## ⭐学习资料⭐
 
-### &ensp;&ensp;--I will always be curious about new knowledge.
+### IMOOC相关课程
+### https://github.com/yongxinz/gopher
+### https://github.com/xiaobaiTech/golangFamily
+### https://www.runoob.com/go/go-tutorial.html
 
-## 学习资料
-
-![Komori Chiyu](https://i0.hdslb.com/bfs/album/a026356dfcd19e6a36aa2770e0d46875d5bbb87c.png)
+![Komori Chiyu](https://i0.hdslb.com/bfs/album/a026356dfcd19e6a36aa2770e0d46875d5bbb87c.png){:height="50%" width="50%"}
