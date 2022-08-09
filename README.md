@@ -15,7 +15,7 @@
 ## ⭐开发环境⭐
 
 ### &ensp;&ensp;IDE
-#### &ensp;&ensp;&ensp;&ensp;JetBrains GoLand 2022.2
+#### &ensp;&ensp;&ensp;&ensp;JetBrains GoLand 2022.2.1
 ### &ensp;&ensp;Go sdk
 #### &ensp;&ensp;&ensp;&ensp;开始学习时：1.18.3
 #### &ensp;&ensp;&ensp;&ensp;当前更新到：1.19
