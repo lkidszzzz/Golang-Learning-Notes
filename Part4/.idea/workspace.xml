@@ -30,20 +30,20 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "DefaultGoTemplateProperty": "Go Application",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.go.formatter.settings.were.checked": "true",
-    "RunOnceActivity.go.migrated.go.modules.settings": "true",
-    "RunOnceActivity.go.modules.go.list.on.any.changes.was.set": "true",
-    "RunOnceActivity.go.watchers.conflict.with.on.save.actions.check.performed": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "go.import.settings.migrated": "true",
-    "last_opened_file_path": "D:/Komori Chiyu/Documents/Github/Golang-Learning-Notes/Part4/03.errhandling/defer"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultGoTemplateProperty&quot;: &quot;Go Application&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.go.formatter.settings.were.checked&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.go.migrated.go.modules.settings&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.go.modules.go.list.on.any.changes.was.set&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.go.watchers.conflict.with.on.save.actions.check.performed&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;go.import.settings.migrated&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Komori Chiyu/Documents/Github/Golang-Learning-Notes/Part4/03.errhandling/defer&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\Komori Chiyu\Documents\Github\Golang-Learning-Notes\Part4\03.errhandling\defer" />
@@ -54,7 +54,7 @@
       <recent name="D:\Komori Chiyu\Documents\Github\Golang-Learning-Notes\Part4\02.functional\ftb" />
     </key>
   </component>
-  <component name="RunManager" selected="Go 构建.go build Part4/03.errhandling/defer">
+  <component name="RunManager" selected="Go 构建.go build Part4/04.goroutine">
     <configuration name="go build Part4/02.functional" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="Part4" />
       <working_directory value="$PROJECT_DIR$" />
@@ -82,8 +82,18 @@
       <filePath value="$PROJECT_DIR$/03.errhandling/defer/defer.go" />
       <method v="2" />
     </configuration>
+    <configuration name="go build Part4/04.goroutine" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="Part4" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <package value="Part4/04.goroutine" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/04.goroutine/goroutine.go" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Go 构建.go build Part4/04.goroutine" />
         <item itemvalue="Go 构建.go build Part4/03.errhandling/defer" />
         <item itemvalue="Go 构建.go build Part4/02.functional" />
         <item itemvalue="Go 构建.go build Part4/02.functional/adder" />
