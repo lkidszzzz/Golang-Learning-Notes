@@ -26,6 +26,7 @@
 ### &ensp;&ensp;golangfamily—https://github.com/xiaobaiTech/golangFamily
 ### &ensp;&ensp;菜鸟教程—https://www.runoob.com/go/go-tutorial.html
 
-<img src="https://i0.hdslb.com/bfs/album/a026356dfcd19e6a36aa2770e0d46875d5bbb87c.png" width="1000px">
+##
+<img src="https://i0.hdslb.com/bfs/album/a026356dfcd19e6a36aa2770e0d46875d5bbb87c.png" width="500px">
 
 
