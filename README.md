@@ -16,15 +16,15 @@
 
 ### &ensp;&ensp;IDE : JetBrains GoLand 2022.2
 ### &ensp;&ensp;GO : 1.18.4
-### &ensp;&ensp;————I will update the development environment in time.
-### &ensp;&ensp;————I will always be curious about new knowledge.
+### &ensp;&ensp;——I will update the development environment in time.
+### &ensp;&ensp;——I will always be curious about new knowledge.
 
 ## ⭐学习资料⭐
 
 ### &ensp;&ensp;IMOOC相关课程
-### &ensp;&ensp;gopher——https://github.com/yongxinz/gopher
-### &ensp;&ensp;golangfamily——https://github.com/xiaobaiTech/golangFamily
-### &ensp;&ensp;菜鸟教程——https://www.runoob.com/go/go-tutorial.html
+### &ensp;&ensp;gopher—https://github.com/yongxinz/gopher
+### &ensp;&ensp;golangfamily—https://github.com/xiaobaiTech/golangFamily
+### &ensp;&ensp;菜鸟教程—https://www.runoob.com/go/go-tutorial.html
 
 ![Komori Chiyu](https://i0.hdslb.com/bfs/album/a026356dfcd19e6a36aa2770e0d46875d5bbb87c.png)
 
