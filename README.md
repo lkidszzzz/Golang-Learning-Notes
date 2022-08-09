@@ -21,9 +21,9 @@
 #### &ensp;&ensp;&ensp;&ensp;开始学习时：1.18.3
 #### &ensp;&ensp;&ensp;&ensp;当前更新到：1.19
 
-### &ensp;&ensp;——I will update the development environment in time.
-
-### &ensp;&ensp;——I will always be curious about new knowledge.
+###
+#### &ensp;&ensp;——I will update the development environment in time.
+#### &ensp;&ensp;——I will always be curious about new knowledge.
 
 ## ⭐学习资料⭐
 
