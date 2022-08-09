@@ -26,6 +26,6 @@
 ### &ensp;&ensp;golangfamily—https://github.com/xiaobaiTech/golangFamily
 ### &ensp;&ensp;菜鸟教程—https://www.runoob.com/go/go-tutorial.html
 
-![Komori Chiyu](https://i0.hdslb.com/bfs/album/a026356dfcd19e6a36aa2770e0d46875d5bbb87c.png)
+<img src="https://i0.hdslb.com/bfs/album/a026356dfcd19e6a36aa2770e0d46875d5bbb87c.png" width="1000px">
 
-[<img src="https://img-blog.csdnimg.cn/2020102116384135.png" width="100px">](https://i0.hdslb.com/bfs/album/a026356dfcd19e6a36aa2770e0d46875d5bbb87c.png)
+
